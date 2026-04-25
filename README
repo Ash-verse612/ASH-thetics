@@ -1,0 +1,47 @@
+ASH-thetics
+Find your aesthetics here.
+
+ASH-thetics is a curated aesthetic shopping and room inspiration website for students, young adults, and anyone who wants a beautiful space on a budget. It brings together cozy decor, desk setup finds, bedroom pieces, wall accents, and budget-friendly Amazon picks in one visual browsing experience.
+
+Live Site
+https://ash-thetics.vercel.app
+
+What It Does
+Showcases aesthetic home decor and lifestyle finds
+Organizes products by categories like cozy lighting, bedroom decor, desk setup, wall decor, under-budget finds, and premium picks
+Links visitors directly to Amazon product pages
+Shares room inspiration and curated visual ideas
+Includes a newsletter section for weekly aesthetic finds
+Built With
+HTML
+CSS
+JavaScript
+Vercel for deployment
+Project Goal
+The goal of ASH-thetics is to make aesthetic room styling easier and more affordable. Instead of searching through endless product pages, visitors can quickly discover items that match a clean, cozy, minimal, or dreamy room aesthetic.
+
+Current Features
+Responsive landing page
+Product cards with images and links
+Category-based browsing
+Inspiration sections
+Amazon affiliate-style product links
+Newsletter signup section
+Planned Improvements
+Add more curated product collections
+Improve mobile performance
+Add search and filtering
+Create separate pages for each aesthetic
+Add a blog or styling guide section
+Add clearer affiliate and privacy information
+Repository Structure
+ASH-thetics/
+├── index.html
+└── ash-thetics-final (3).html
+index.html is the main website file. The extra HTML file appears to be an earlier or exported version and can be cleaned up once the final version is confirmed.
+
+Affiliate Disclosure
+Some product links may be affiliate links. This means ASH-thetics may earn a small commission if a visitor purchases through those links, at no extra cost to them.
+
+Author
+Created by Ash-verse612.
